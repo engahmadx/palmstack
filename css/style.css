@@ -593,7 +593,7 @@ body.offcanvas .colorlib-nav-toggle {
   }
 }
 
-.about-img,
+.-img,
 .about-img-2 .about-img-3 {
   /*background-size: cover;*/
   background-position: center center;
@@ -642,7 +642,7 @@ body.offcanvas .colorlib-nav-toggle {
 .about-img {
   width: 250px;
   height: 250px;
-  margin-left: 5em;
+  margin-left: 15em;
 }
 
 .about-img .about-img-2 {
