@@ -1934,7 +1934,7 @@ body.offcanvas .colorlib-nav-toggle {
 .content {
   position: absolute;
   top: 100%;
-  left: 5%;
+  /*left: 5%;*/
   transform: translate(-18%, 10%);
   height: 160px;
   overflow: hidden;
